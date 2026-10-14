@@ -19,6 +19,8 @@ I'm **Berkay**, interested in **backend development, AI, and data**. I like unde
 
 <a href="https://www.linkedin.com/in/berkay-seyman-3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="Connect with Berkay on LinkedIn" /></a>
 &nbsp;
+<a href="mailto:berkayseyman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Berkay at berkayseyman@gmail.com" /></a>
+&nbsp;
 <a href="https://github.com/symNistaken?tab=repositories"><img src="https://img.shields.io/badge/My_projects-181717?style=flat-square&logo=github&logoColor=white" alt="Browse my GitHub repositories" /></a>
 
 ### Languages & tools
@@ -60,5 +62,6 @@ I'm **Berkay**, interested in **backend development, AI, and data**. I like unde
   </tr>
 </table>
 
-<p align="center"><sub>Thanks for stopping by. Always a work in progress.</sub></p>
-
+<p align="center">
+  <sub>Thanks for stopping by. Always a work in progress.</sub>
+</p>
