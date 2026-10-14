@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="profile-cover.png" width="100%" alt="Hey, I'm Berkay — symNistaken" />
+  <img src="download.png" width="100%" alt="Hey, I'm Berkay — symNistaken" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Curiosity+%7C+Code+%7C+Always+learning;Backend+development+%26+AI;Curious+about+how+things+work" alt="Curious about code. Always learning. Interested in backend development and AI." />
 </p>
 
-### Hi there, I'm Berkay — aka symNistaken 👋
+### Hello there, I'm Berkay — aka symNistaken 👋
 
 I'm **Berkay**, interested in **backend development, AI, and data**. I like understanding how things work, experimenting with new ideas, and learning by building.
 
