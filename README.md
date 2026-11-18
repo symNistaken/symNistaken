@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Curiosity+%7C+Code+%7C+Always+learning;Backend+development+%26+AI;Curious+about+how+things+work" alt="Curious about code. Always learning. Interested in backend development and AI." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=Backend+%26+AI+%C2%B7+Python%2C+C%23%2C+Flask;Building+real+projects%2C+learning+by+doing" alt="Backend and AI. Python, C#, Flask. Building real projects, learning by doing." />
 </p>
 
-### Hello there, I'm Berkay — aka symNistaken 👋
+### Hello there, I'm Berkay — aka symNistaken
 
 I'm **Berkay**, interested in **backend development, AI, and data**. I like understanding how things work, experimenting with new ideas, and learning by building.
 
-- 🧠 Exploring how AI can become part of useful everyday applications.
-- 🛠️ Working with Python, C#, web technologies, and API integrations.
-- 🌱 Learning through small experiments, challenges, and projects.
-- 💬 Happy to connect and talk about technology or something you're building.
+- Exploring how AI can become part of useful everyday applications.
+- Working with Python, C#, web technologies, and API integrations.
+- Learning through small experiments, challenges, and projects.
+- Happy to connect and talk about technology or something you're building.
 
 ### Tech stack
 
@@ -56,17 +56,17 @@ I'm **Berkay**, interested in **backend development, AI, and data**. I like unde
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>⚙️ Backend & desktop</h4>
+      <h4>Backend & desktop</h4>
       <p>Web and desktop applications, REST APIs, and database-backed workflows.</p>
       <p><sub>Python · Flask · C# · .NET · WPF · SQLite</sub></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🧠 AI & data</h4>
+      <h4>AI & data</h4>
       <p>AI service integration, recommendations, embeddings, and semantic retrieval.</p>
       <p><sub>Groq · SentenceTransformers · NumPy</sub></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🔗 Integrations</h4>
+      <h4>Integrations</h4>
       <p>Connecting applications to external APIs and email services.</p>
       <p><sub>Steam Web API · REST · SMTP</sub></p>
     </td>
@@ -94,6 +94,20 @@ I'm **Berkay**, interested in **backend development, AI, and data**. I like unde
       <p>My backend contributions to a booking system with admin approval, availability checks, and email notifications.</p>
       <p><sub>Python · Flask · SQLite · SMTP</sub></p>
       <a href="https://github.com/symNistaken/bungalow-reservation-system">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/symNistaken/kozalak-demo">Kozalak Bungalov</a></h4>
+      <p>Serverless live demo and landing page for a bungalow reservation product.</p>
+      <p><sub>HTML · JavaScript · GitHub Pages</sub></p>
+      <a href="https://symnistaken.github.io/kozalak-demo/">Live demo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/symNistaken/face-blur-app">Face Blur</a></h4>
+      <p>Real-time face blurring on webcam video with OpenCV and Haar Cascade.</p>
+      <p><sub>Python · OpenCV</sub></p>
+      <a href="https://github.com/symNistaken/face-blur-app">View repository →</a>
     </td>
   </tr>
 </table>
