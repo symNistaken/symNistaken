@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download.png" width="100%" alt="Hey, I'm Berkay — symNistaken, developer" />
+  <img src="download.png" width="100%" alt="Hey, I'm Berkay — symNistaken, backend &amp; AI developer" />
 </p>
 
 I'm **Berkay**, a developer interested in **backend development, AI, and data**. I learn by building: web and desktop apps, API integrations, and small AI experiments that turn into useful tools. Happy to talk about technology or something you're building.
