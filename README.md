@@ -104,10 +104,10 @@ I'm **Berkay**, interested in **backend development, AI, and data**. I like unde
       <a href="https://symnistaken.github.io/kozalak-demo/">Live demo →</a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/symNistaken/face-blur-app">Face Blur</a></h4>
-      <p>Real-time face blurring on webcam video with OpenCV and Haar Cascade.</p>
-      <p><sub>Python · OpenCV</sub></p>
-      <a href="https://github.com/symNistaken/face-blur-app">View repository →</a>
+      <h4><a href="https://github.com/symNistaken/nosh-source">Nosh</a></h4>
+      <p>Desktop code and note editor with syntax highlighting, Google Drive sync, and Spotify controls.</p>
+      <p><sub>Electron · JavaScript · CodeMirror</sub></p>
+      <a href="https://github.com/symNistaken/nosh-source">View repository →</a>
     </td>
   </tr>
 </table>
