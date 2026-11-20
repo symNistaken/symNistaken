@@ -52,5 +52,5 @@ I'm **Berkay**, a developer interested in **backend development, AI, and data**.
 
 <p>
   <a href="https://www.linkedin.com/in/berkay-seyman-3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:berkayseyman@gmail.com"><img src="https://img.shields.io/badge/berkayseyman@gmail.com-334155?style=for-the-badge" alt="Email berkayseyman@gmail.com" /></a>
+  <a href="mailto:berkayseymann@gmail.com"><img src="https://img.shields.io/badge/berkayseymann@gmail.com-334155?style=for-the-badge" alt="Email berkayseymann@gmail.com" /></a>
 </p>
